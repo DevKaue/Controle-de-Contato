@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhqd746ydVZ6PKMklQL2tNYo4ZGnwxDZgc5mCvmDdn3/LSJRA0LkDSQIm3CchZ43MiMnsOBWogPwB8Or2xHVGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ModalGR\\source\\repos\\DevKaue\\Controle-de-Contato\\ControleDeContatos\\ControleDeContatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ModalGR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ModalGR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ModalGR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ModalGR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
