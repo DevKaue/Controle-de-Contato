@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ModalGR\\source\\repos\\DevKaue\\Controle-de-Contato\\ControleDeContatos\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{238AF6CC-0159-4710-9E3B-8F2336E1F943}|ControleDeContatos.csproj|c:\\users\\modalgr\\source\\repos\\devkaue\\controle-de-contato\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238AF6CC-0159-4710-9E3B-8F2336E1F943}|ControleDeContatos.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{238AF6CC-0159-4710-9E3B-8F2336E1F943}|ControleDeContatos.csproj|c:\\users\\modalgr\\source\\repos\\devkaue\\controle-de-contato\\controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{238AF6CC-0159-4710-9E3B-8F2336E1F943}|ControleDeContatos.csproj|solutionrelative:views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,32 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ModalGR\\source\\repos\\DevKaue\\Controle-de-Contato\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contato\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ModalGR\\source\\repos\\DevKaue\\Controle-de-Contato\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
-              "RelativeToolTip": "Views\\Contato\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T16:23:06.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\Users\\ModalGR\\source\\repos\\DevKaue\\Controle-de-Contato\\ControleDeContatos\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\Users\\ModalGR\\source\\repos\\DevKaue\\Controle-de-Contato\\ControleDeContatos\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "Controllers\\ContatoController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAmwCgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T16:17:06.914Z",
-              "EditorCaption": ""
             }
           ]
         }
